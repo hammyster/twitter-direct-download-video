@@ -1,6 +1,5 @@
 # twitter-direct-download-video
-Download videos direct from Twitter using the link
-Project created for studies.
+Download videos direct from Twitter using the link. Project created for studies.
 
 # Example of use
 
